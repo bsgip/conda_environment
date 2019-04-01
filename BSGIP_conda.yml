@@ -129,3 +129,5 @@ dependencies:
     - cplex
     - networkx
     - bs4
+    - requests
+    - sqlalchemy

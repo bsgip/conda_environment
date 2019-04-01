@@ -129,3 +129,5 @@ dependencies:
     - networkx
     - libgcc
     - bs4
+    - requests
+    - sqlalchemy
