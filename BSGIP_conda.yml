@@ -128,4 +128,4 @@ dependencies:
   - pip:
     - cplex
     - networkx
-
+    - bs4

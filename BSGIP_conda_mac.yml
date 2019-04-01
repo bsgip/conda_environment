@@ -128,3 +128,4 @@ dependencies:
     - libstdcxx-ng
     - networkx
     - libgcc
+    - bs4
