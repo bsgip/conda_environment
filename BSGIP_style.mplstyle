@@ -1,6 +1,6 @@
 # Copy to .config/matplotlib/stylelib/
 
-lines.linewidth: 4
+lines.linewidth: 6
 lines.solid_capstyle: butt
 
 legend.fancybox: true
@@ -41,7 +41,7 @@ axes.titlepad       : 15.0     # pad between axes and title in points
 axes.titleweight    : medium  # font weight for axes title
 xtick.labelsize: 26
 ytick.labelsize: 26
-legend.fontsize: 20
+legend.fontsize: 26
 
 # Use sans-serif LaTeX for all text.
 font.family: serif
