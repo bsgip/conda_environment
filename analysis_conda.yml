@@ -1,0 +1,32 @@
+name: bsgip
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - cython
+  - dataclasses
+  - dictdiffer
+  - hypothesis
+  - json5
+  - jsonschema
+  - jupyter
+  - keras
+  - matplotlib
+  - networkx
+  - numpy
+  - notebook
+  - ordered-set
+  - pandas
+  - plotly
+  - pydantic
+  - pytest
+  - python=3.7
+  - python-fastjsonschema
+  - pyomo
+  - requests 
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - sqlalchemy
