@@ -8,7 +8,6 @@ dependencies:
   - dataclasses
   - dictdiffer
   - hypothesis
-  - ipopt
   - json5
   - jsonschema
   - jupyter
